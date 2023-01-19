@@ -1,10 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // basePath: "/articles-nextjs",
+  basePath: "/articles-nextjs",
   reactStrictMode: true,
   images: {
     domains: ["i.imgur.com", "miro.medium.com"],
-    // unoptimized: true,
+    unoptimized: true,
   },
   pageExtensions: ["js", "jsx", "md", "mdx"],
   eslint: {
