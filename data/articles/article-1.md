@@ -8,7 +8,7 @@ modifiedDate: ""
 channel: "Test"
 category: ""
 tags: []
-layout: BasicLayout
+layout: "BasicLayout"
 filter: "filter-linear-burn"
 typography: ""
 draft: false

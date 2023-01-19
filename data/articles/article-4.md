@@ -8,7 +8,7 @@ modifiedDate: ""
 channel: "Lots of Tests"
 category: ""
 tags: []
-layout: BasicLayout
+layout: "BasicLayout"
 filter: "filter-dunastone"
 typography: "serif"
 draft: false
