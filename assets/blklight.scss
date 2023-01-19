@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "scss/mixins";
+@import "scss/base";
+@import "scss/extra";
+@import "scss/article";
+@import "scss/header";
+@import "scss/card";
+@import "scss/prism";
+@import "scss/color-filters";

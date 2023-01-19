@@ -1,0 +1,84 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Ultimate Mercer - Articles NextJS</title>
+      <link>https://ultimatemercer.com/articles-nextjs//projects</link>
+      <description>Testing NextJS</description>
+      <language>pt-BR</language>
+      <managingEditor>address@yoursite.com (Ultimate Mercer)</managingEditor>
+      <webMaster>address@yoursite.com (Ultimate Mercer)</webMaster>
+      <lastBuildDate>Sat, 07 Jan 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://ultimatemercer.com/articles-nextjs//feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://ultimatemercer.com/articles-nextjs//projects/article-7</guid>
+    <title>How to play Yu-Gi-Oh! Master Duel Like a Pro: Learn to Read</title>
+    <link>https://ultimatemercer.com/articles-nextjs//projects/article-7</link>
+    undefined
+    <pubDate>Sat, 07 Jan 2023 00:00:00 GMT</pubDate>
+    <author>address@yoursite.com (Ultimate Mercer)</author>
+    
+  </item>
+
+  <item>
+    <guid>https://ultimatemercer.com/articles-nextjs//projects/article-6</guid>
+    <title>How to write articles in markdown</title>
+    <link>https://ultimatemercer.com/articles-nextjs//projects/article-6</link>
+    undefined
+    <pubDate>Fri, 06 Jan 2023 00:00:00 GMT</pubDate>
+    <author>address@yoursite.com (Ultimate Mercer)</author>
+    
+  </item>
+
+  <item>
+    <guid>https://ultimatemercer.com/articles-nextjs//projects/article-5</guid>
+    <title>How to test a small project that uses markdown</title>
+    <link>https://ultimatemercer.com/articles-nextjs//projects/article-5</link>
+    undefined
+    <pubDate>Thu, 05 Jan 2023 00:00:00 GMT</pubDate>
+    <author>address@yoursite.com (Ultimate Mercer)</author>
+    
+  </item>
+
+  <item>
+    <guid>https://ultimatemercer.com/articles-nextjs//projects/article-3</guid>
+    <title>Third Markdown Article Example For Deploy Purposes</title>
+    <link>https://ultimatemercer.com/articles-nextjs//projects/article-3</link>
+    undefined
+    <pubDate>Wed, 04 Jan 2023 00:00:00 GMT</pubDate>
+    <author>address@yoursite.com (Ultimate Mercer)</author>
+    
+  </item>
+
+  <item>
+    <guid>https://ultimatemercer.com/articles-nextjs//projects/article-4</guid>
+    <title>I need to make tests so this is another title</title>
+    <link>https://ultimatemercer.com/articles-nextjs//projects/article-4</link>
+    undefined
+    <pubDate>Wed, 04 Jan 2023 00:00:00 GMT</pubDate>
+    <author>address@yoursite.com (Ultimate Mercer)</author>
+    
+  </item>
+
+  <item>
+    <guid>https://ultimatemercer.com/articles-nextjs//projects/article-2</guid>
+    <title>Second Markdown Article Example For Project Purposes</title>
+    <link>https://ultimatemercer.com/articles-nextjs//projects/article-2</link>
+    undefined
+    <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
+    <author>address@yoursite.com (Ultimate Mercer)</author>
+    
+  </item>
+
+  <item>
+    <guid>https://ultimatemercer.com/articles-nextjs//projects/article-1</guid>
+    <title>Markdown Article Example</title>
+    <link>https://ultimatemercer.com/articles-nextjs//projects/article-1</link>
+    undefined
+    <pubDate>Mon, 02 Jan 2023 00:00:00 GMT</pubDate>
+    <author>address@yoursite.com (Ultimate Mercer)</author>
+    
+  </item>
+
+    </channel>
+  </rss>
