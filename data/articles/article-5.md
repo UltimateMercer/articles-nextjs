@@ -9,7 +9,7 @@ channel: "Development"
 category: ""
 tags: []
 filter: "filter-blue-red-golden"
-layout: BasicLayout
+layout: "BasicLayout"
 typography: "monospace"
 draft: false
 authors: [{ name: "sashawatson", quote: "Lorem Ipsum Article to test" }]

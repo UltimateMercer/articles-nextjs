@@ -20,7 +20,7 @@ const postDateTemplate = {
 const BasicLayout = ({ frontmatter, authorDetails, next, prev, children }) => {
   const { authors, styles, slug, fileName, date, title, tags } = frontmatter;
   const [filter, setFilter] = useState(() =>
-    styles.filter ? styles.filter : "filter-cyberpunk-v"
+    frontmatter.filter ? frontmatter.filter : "filter-cyberpunk-v"
   );
   const [typography, setTypography] = useState(() =>
     frontmatter.typography ? `${frontmatter.typography}-article` : ""

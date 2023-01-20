@@ -9,7 +9,7 @@ channel: "Writing"
 category: ""
 tags: []
 filter: "filter-cyberpunk-ix"
-layout: PortraitLayout
+layout: "PortraitLayout"
 typography: "monospace"
 draft: false
 authors:
